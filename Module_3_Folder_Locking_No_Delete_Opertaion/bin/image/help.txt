@@ -1,0 +1,47 @@
+-------------------------------------------------------------------------------------------
+                    Xtreme Copy
+-------------------------------------------------------------------------------------------
+
+This software lets you copy the data very quickly.You can choose Transfer rate of data for ensuring efficient utilization of RAM memory. Users having low RAM memory can choose low transfer rate and those having high RAM memory can choose high transfer rate.So we hope that you experience fast copying and moving data.
+
+-------------------------------------------------------------------------------------------
+                   -Features-
+-------------------------------------------------------------------------------------------
+
+1. Space Utilization
+2. User Friendly Appearance
+3. Security
+4. Platform independence
+5. File concatenation
+6. Text compresser
+
+-------------------------------------------------------------------------------------------
+                   -How To Use-
+-------------------------------------------------------------------------------------------
+1.First select the source file or folder by clicking on 'Browse' button    or selecting File -> Select Source.The path of selected data will be    displayed in textbox.
+
+2.Repeat same procedure for selecting Destination file.
+
+3.Now select options as your requirements.There can be 3 choices.
+    
+   @ Click on 'Start' button if you only want to copy the source data           to destination.
+   @ Select 'Join' sub-menu from 'Actions' menu to concatenate                source to destination.
+   @ Select 'Compress' sub-menu from 'Actions' menu to compress          source file to destination (Only 'text' files are allowed).
+   @ If you want to secure your data then select checkbox named             'Turn Encryption On'.The data will be encoded while transfer             process with high speed.Also you can encrypt whole folder and         with no practical limitation of file size.
+
+4.Note that you can temporarily 'pause' transfer process without    damaging crrent transfer.
+
+-------------------------------------------------------------------------------------------
+                   -Designed By-
+-------------------------------------------------------------------------------------------
+				
+		   * Sonali Gujare
+		   * Sarika Kalyani
+		   * Utkarsha Shelake	
+
+-------------------------------------------------------------------------------------------
+                  -Guided By-
+-------------------------------------------------------------------------------------------
+              * Prof.Mrs.Archana Bansod
+
+
